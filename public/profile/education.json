@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "July 2010 - Jun 2014",
+            "cardTitle": "B.Tech - Computer Science",
+            "cardSubtitle":"B.K. Birla Institute of Engineering & Technology",
+            "cardDetailedText": "73.53%"
+        },
+        {
+            "title": "Apr 2010",
+            "cardTitle": "12th (Computer Science)",
+            "cardSubtitle":"Banasthali University",
+            "cardDetailedText": "90.89%"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "experiences": [
+        {
+            "title": "Assistant Technical Lead",
+            "subtitle": "To The New Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Led the development of scalable solutions for clients in diverse industries.",
+                "Developed web applications using NextJS, ReactJS, Angular and Node.js.",
+                "Otimize web applications using AWS, Jenkins and NewRelic.",
+                "Worked closely with cross-functional teams to design and deploy high-performance applications."
+            ],
+            "dateText": "07/2022 – Present"
+        },
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "ATCS – a Nagarro Company",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed and optimized web applications using Angular, ReactJS, and Node.js.",
+                "Collaborated with clients to identify business requirements and provide tailored technical solutions."
+            ],
+            "dateText": "07/2019 – 07/2022"
+        },
+        {
+            "title": "Consultant",
+            "subtitle": "Amdocs Inc. (Xebia)",
+            "workType": "Full-time",
+            "workDescription": [
+                "Provided consulting services to enterprise clients, focusing on application architecture and development.",
+                "Contributed to system performance improvements and optimization of legacy applications."
+            ],
+            "dateText": "11/2018 – 06/2019"
+        },
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "InfoObjects Software (India) Pvt. Ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Implemented complex features and enhancements for a variety of client projects."
+            ],
+            "dateText": "11/2014 – 10/2018"
+        }
+    ]
+}
