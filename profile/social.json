@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/mahendra-kumar-agrawal/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/mahendra705"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:manishagrawal705@gmail.com"
+        }
+    ]
+}
