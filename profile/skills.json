@@ -5,19 +5,19 @@
             "title": "Languages & Databases",
             "items": [
                 {
-                    "icon": "images/skills/js.png",
+                    "icon": "portfolio-app/images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/ts.png",
+                    "icon": "portfolio-app/images/skills/ts.png",
                     "title": "TypeScript"
                 },
                 {
-                    "icon": "images/skills/mongodb.png",
+                    "icon": "portfolio-app/images/skills/mongodb.png",
                     "title": "NoSQL"
                 },
                 {
-                    "icon": "images/skills/sql.png",
+                    "icon": "portfolio-app/images/skills/sql.png",
                     "title": "SQL"
                 }
             ]
@@ -26,19 +26,19 @@
             "title": "Frameworks & Technologies",
             "items": [
                 {
-                    "icon": "images/skills/nextjs.png",
+                    "icon": "portfolio-app/images/skills/nextjs.png",
                     "title": "Next.js"
                 },
                 {
-                    "icon": "images/skills/react.png",
+                    "icon": "portfolio-app/images/skills/react.png",
                     "title": "React.js"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
+                    "icon": "portfolio-app/images/skills/nodejs.png",
                     "title": "Node.js"
                 },
                 {
-                    "icon": "images/skills/angular.png",
+                    "icon": "portfolio-app/images/skills/angular.png",
                     "title": "Angular"
                 }
             ]
@@ -47,15 +47,15 @@
             "title": "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/aws.png",
+                    "icon": "portfolio-app/images/skills/aws.png",
                     "title": "AWS"
                 },
                 {
-                    "icon": "images/skills/jenkins.png",
+                    "icon": "portfolio-app/images/skills/jenkins.png",
                     "title": "Jenkins"
                 },
                 {
-                    "icon": "images/skills/git.png",
+                    "icon": "portfolio-app/images/skills/git.png",
                     "title": "Git"
                 },
                 {
@@ -63,11 +63,11 @@
                     "title": "Docker"
                 },
                 {
-                    "icon": "images/skills/newrelic.png",
+                    "icon": "portfolio-app/images/skills/newrelic.png",
                     "title": "New Relic"
                 },
                 {
-                    "icon": "images/skills/jira.png",
+                    "icon": "portfolio-app/images/skills/jira.png",
                     "title": "Jira"
                 }
             ]
